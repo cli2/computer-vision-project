@@ -1,0 +1,2 @@
+model_checkpoint_path: "iiinet"
+all_model_checkpoint_paths: "iiinet"
